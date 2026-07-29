@@ -12,8 +12,8 @@ My goal for this project is to complete it in one day. It's currently 5:09 PM, a
 ---
 TO DO LIST: Hardware
 
-- [ ] Have all the necessary tabs open (starting with the tutorial)
-- [ ] Learn how to use EasyEDA (from the hacker card tutorial)
+- [x] Set up journal, project, Have all the necessary tabs open (starting with the tutorial)
+- [x] Learn how to use EasyEDA (from the hacker card tutorial)
 - [ ] Have all the PCB functionality laid out, with all the wires connected with the NFC
 - [ ] Look into adding extra functionality that's not in the tutorial (maybe an extra NFC reader? I'm not sure. Maybe more LEDS?)
 
@@ -25,9 +25,27 @@ Art/Text
 
 ---
 
-1. Have all the necessary tabs open (starting with the tutorial)
+# July 29, 5:50 PM: PCB Functionality Laid Out
 
-This took me about 
+- [x] Set up journal, project, Have all the necessary tabs open (starting with the tutorial)
+- [x] Learn how to use EasyEDA (from the hacker card tutorial)
+- [x] Have all the PCB functionality laid out, with all the wires connected with the NFC
+
+The above items were completed as a batch in this entry.
+
+5:27 PM
+
+The tutorial has a yellow LED set up, but I want to find a white LED. Going to see if I can match the same electrical specifications but for a different colour.
+
+![tutorial LED](images/tutorialoriginalLED.png)
+
+5:39 PM
+
+Did some research, and it turns out that white will never work due to the voltage. Furthermore, my backup (blue), will also never work due to the voltage.
+
+**bruh**
+
+Oh well, time to go back to the yellow.
 
 
 ![pcb layout](images/pcb-v1.png)
