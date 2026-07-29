@@ -7,7 +7,7 @@ created_at: "2026-07-29"
 
 # July 29: Completed Hacker Card
 
-My goal for this project is to complete it in one day. It's currently 5:09 PM, and by 5:30 I want to have all my tabs opened, so I'm ready to learn all the tools I'll need to actually create the card. I also want to set up a quick to-do list at the top of this journal, which I'll do now. The journal will use each task as a header. (There will also be timestamps as each is completed, if the task is big enough to have an image associated with it.)
+My goal for this project is to complete it in one day. It's currently 5:09 PM, and by 5:30 I want to have all my tabs opened, so I'm ready to learn all the tools I'll need to actually create the card. I also want to set up a quick to-do list at the top of this journal, which I'll do now. ~~The journal will use each task as a header.~~ *Turns out that each header reads as a different day in the website. Changed!* (There will also be timestamps as each is completed, if the task is big enough to have an image associated with it.)
 
 ---
 TO DO LIST: Hardware
