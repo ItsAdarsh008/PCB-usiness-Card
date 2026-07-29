@@ -27,7 +27,7 @@ Art/Text
 
 ---
 
-# July 29, 5:50 PM: PCB Functionality Laid Out
+# July 29, 5:25 PM: Getting the PCB Functionality Laid Out (Hardware)
 
 - [x] Set up journal, project, Have all the necessary tabs open (starting with the tutorial)
 - [x] Learn how to use EasyEDA (from the hacker card tutorial)
@@ -35,13 +35,13 @@ Art/Text
 
 The above items were completed as a batch in this entry.
 
-5:27 PM
+**5:27 PM**
 
 The tutorial has a yellow LED set up, but I want to find a white LED. Going to see if I can match the same electrical specifications but for a different colour.
 
 ![tutorial LED](images/tutorialoriginalLED.png)
 
-5:39 PM
+**5:39 PM**
 
 Did some research, and it turns out that white will never work due to the voltage. Furthermore, my backup (blue), will also never work due to the voltage.
 
@@ -49,10 +49,30 @@ Did some research, and it turns out that white will never work due to the voltag
 
 Oh well, time to go back to the yellow.
 
-5:52 PM: Wiring Completed
+**5:52 PM: Wiring Completed**
 
 ![wiring on EASYEDA](images/wiring.png)
 
 Pretty weird trying to get the red circles (connectors between wires) but that just shows my hardware knowledge after a 1 year hiatus :skull:
 
+**6:13 PM: Wiring Completed**
+
+![PCB portion](images/hardware.png)
+
+Here's how I have my wiring set up. I want to have the physical raised portion of the NFC antenna serve as a box for some of my links. As I say this, I'm realizing I probably need to buy a domain for my website before actually having this card rendered.
+
+**6:38 PM: 3D routing complete**
+
+Wow was this more effort then I expected it to be. I cannot comprehend how crazy the art will be after this
+
 **Total time spent: 1 hour**
+
+# July 29, 6:54 PM: Starting on the Artwork Portion
+
+**7:11 PM: Importing dimensions into Canva**
+
+Used a converter to turn the JSON file into dimensions, and added them into this canva file.
+
+![Canva beginning](canvadimensions.png)
+
+
