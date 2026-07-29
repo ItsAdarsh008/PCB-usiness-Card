@@ -14,7 +14,7 @@ TO DO LIST: Hardware
 
 - [x] Set up journal, project, Have all the necessary tabs open (starting with the tutorial)
 - [x] Learn how to use EasyEDA (from the hacker card tutorial)
-- [ ] Have all the PCB functionality laid out, with all the wires connected with the NFC
+- [x] Have all the PCB functionality laid out, with all the wires connected with the NFC
 - [ ] Look into adding extra functionality that's not in the tutorial (maybe an extra NFC reader? I'm not sure. Maybe more LEDS?)
 
 Art/Text
@@ -47,7 +47,14 @@ Did some research, and it turns out that white will never work due to the voltag
 
 Oh well, time to go back to the yellow.
 
+5:52 PM: Wiring Completed
+
+![wiring on EASYEDA](images/wiring.png)
+
+Pretty weird trying to get the red circles (connectors between wires) but that just shows my hardware knowledge after a 1 year hiatus :skull:
+
+
 
 ![pcb layout](images/pcb-v1.png)
 
-**Total time spent: 4 hours**
+**Total time spent: 1 hour**
