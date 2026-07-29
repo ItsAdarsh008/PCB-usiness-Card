@@ -5,9 +5,11 @@ description: "Business Card with NFC Functionality and Silkscreened Text/Art"
 created_at: "2026-07-29"
 ---
 
-# July 29: Completed Hacker Card
+# July 29, 5:09 PM: Starting out with To-DO List
 
-My goal for this project is to complete it in one day. It's currently 5:09 PM, and by 5:30 I want to have all my tabs opened, so I'm ready to learn all the tools I'll need to actually create the card. I also want to set up a quick to-do list at the top of this journal, which I'll do now. ~~The journal will use each task as a header.~~ *Turns out that each header reads as a different day in the website. Changed!* (There will also be timestamps as each is completed, if the task is big enough to have an image associated with it.)
+![timer](images/timer.png)
+
+My goal for this project is to complete it in one day (specifically, 3 hours). It's currently 5:09 PM, and by 5:30 I want to have all my tabs opened, so I'm ready to learn all the tools I'll need to actually create the card. I also want to set up a quick to-do list at the top of this journal, which I'll do now. ~~The journal will use each task as a header.~~ *Turns out that each header reads as a different day in the website. Changed!* (There will also be timestamps as each is completed, if the task is big enough to have an image associated with it.)
 
 ---
 TO DO LIST: Hardware
@@ -52,9 +54,5 @@ Oh well, time to go back to the yellow.
 ![wiring on EASYEDA](images/wiring.png)
 
 Pretty weird trying to get the red circles (connectors between wires) but that just shows my hardware knowledge after a 1 year hiatus :skull:
-
-
-
-![pcb layout](images/pcb-v1.png)
 
 **Total time spent: 1 hour**
