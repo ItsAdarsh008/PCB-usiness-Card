@@ -25,6 +25,8 @@ Art/Text
 - [x] Translate that onto EASYEDA (not sure how, so I'll have to figure out how to do this)
 - [x] Project Complete
 
+**Total time spent: 15m**
+
 ---
 
 # July 29, 5:25 PM: Getting the PCB Functionality Laid Out (Hardware)
