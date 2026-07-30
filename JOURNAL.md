@@ -67,11 +67,17 @@ Wow was this more effort then I expected it to be. I cannot comprehend how crazy
 
 **Total time spent: 1 hour**
 
-# July 29, 6:54 PM: Starting on the Artwork Portion
+# July 29, 6:54 PM: Starting on the Artwork Portion (took a 20 minute break)
 
 **7:11 PM: Importing dimensions into Canva**
 
 Used a converter to turn the JSON file into dimensions, and added them into this canva file.
+
+**8:34 PM: Updated tracing to fix for right-handed user**
+
+Took a bit of a break and came back to realize that since I'm right handed, the information and NFC reader would need to be on the left side for this to work properly. Fix completed.
+
+[PCB Reversed] (images/updatedwiring.png)
 
 ![Canva beginning](canvadimensions.png)
 
