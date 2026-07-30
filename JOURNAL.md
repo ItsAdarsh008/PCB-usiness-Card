@@ -17,12 +17,12 @@ TO DO LIST: Hardware
 - [x] Set up journal, project, Have all the necessary tabs open (starting with the tutorial)
 - [x] Learn how to use EasyEDA (from the hacker card tutorial)
 - [x] Have all the PCB functionality laid out, with all the wires connected with the NFC
-- [ ] Look into adding extra functionality that's not in the tutorial (maybe an extra NFC reader? I'm not sure. Maybe more LEDS?)
+- [x] Look into adding extra functionality that's not in the tutorial (maybe an extra NFC reader? I'm not sure. Maybe more LEDS?)
 
 Art/Text
 
-- [ ] Figure out what I want to actually put on the Card using Figma or Canva or something
-- [ ] Translate that onto EASYEDA (not sure how, so I'll have to figure out how to do this)
+- [x] Figure out what I want to actually put on the Card using Figma or Canva or something
+- [x] Translate that onto EASYEDA (not sure how, so I'll have to figure out how to do this)
 - [ ] Project Complete
 
 ---
@@ -32,6 +32,7 @@ Art/Text
 - [x] Set up journal, project, Have all the necessary tabs open (starting with the tutorial)
 - [x] Learn how to use EasyEDA (from the hacker card tutorial)
 - [x] Have all the PCB functionality laid out, with all the wires connected with the NFC
+- [x] Look into adding extra functionality that's not in the tutorial (maybe an extra NFC reader? I'm not sure. Maybe more LEDS?)
 
 The above items were completed as a batch in this entry.
 
@@ -63,11 +64,17 @@ Here's how I have my wiring set up. I want to have the physical raised portion o
 
 **6:38 PM: 3D routing complete**
 
-Wow was this more effort then I expected it to be. I cannot comprehend how crazy the art will be after this
+Wow was this more effort then I expected it to be. I cannot comprehend how crazy the art will be after this.
+
+Decided not to add any extra functionality due to power restrictions with NFC.
 
 **Total time spent: 1 hour**
 
 # July 29, 6:54 PM: Starting on the Artwork Portion (took a 20 minute break)
+
+- [x] Figure out what I want to actually put on the Card using Figma or Canva or something
+- [x] Translate that onto EASYEDA (not sure how, so I'll have to figure out how to do this)
+- [ ] Project Complete
 
 **7:11 PM: Importing dimensions into Canva**
 
@@ -89,3 +96,14 @@ Added all the information I needed. Used the silkscreen and existing components 
 
 **Total time spent: 2 hours**
 
+**9:38 PM: Preliminary design completed**
+
+I've landed on this design, but it's still not perfect. the windows are a bit too sparse, the buildings don't come together well. furthermore, I don't want them to infringe on the NFC antenna.
+
+![Business Card with preliminary artwork](images/businesscardprelimart.png)
+
+**10:10 PM: Front Artwork Complete**
+
+After a horrific amoutn of fiddling with x and y offsets and canva (scale was completely off, wahoo!)...
+
+![Final Front Artwork](images/finalfrontartwork.png)
