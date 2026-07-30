@@ -73,12 +73,19 @@ Wow was this more effort then I expected it to be. I cannot comprehend how crazy
 
 Used a converter to turn the JSON file into dimensions, and added them into this canva file.
 
+![Canva beginning](images/canvadimensions.png)
+
 **8:34 PM: Updated tracing to fix for right-handed user**
 
 Took a bit of a break and came back to realize that since I'm right handed, the information and NFC reader would need to be on the left side for this to work properly. Fix completed.
 
-[PCB Reversed] (images/updatedwiring.png)
+![PCB Reversed](images/updatedwiring.png)
 
-![Canva beginning](canvadimensions.png)
+**9:03 PM: Added text portions**
 
+Added all the information I needed. Used the silkscreen and existing components as guidelines, with a trace being used to underline my name.
+
+![Business Card with Text](images/businesscardtext.png)
+
+**Total time spent: 2 hours**
 
