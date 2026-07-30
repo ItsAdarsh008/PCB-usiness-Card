@@ -23,7 +23,7 @@ Art/Text
 
 - [x] Figure out what I want to actually put on the Card using Figma or Canva or something
 - [x] Translate that onto EASYEDA (not sure how, so I'll have to figure out how to do this)
-- [ ] Project Complete
+- [x] Project Complete
 
 ---
 
@@ -74,7 +74,6 @@ Decided not to add any extra functionality due to power restrictions with NFC.
 
 - [x] Figure out what I want to actually put on the Card using Figma or Canva or something
 - [x] Translate that onto EASYEDA (not sure how, so I'll have to figure out how to do this)
-- [ ] Project Complete
 
 **7:11 PM: Importing dimensions into Canva**
 
@@ -107,3 +106,15 @@ I've landed on this design, but it's still not perfect. the windows are a bit to
 After a horrific amoutn of fiddling with x and y offsets and canva (scale was completely off, wahoo!)...
 
 ![Final Front Artwork](images/finalfrontartwork.png)
+
+**10:53 PM: Back Artwork Complete**
+
+After a few iterations (such as having the text be in the corners, rather than surrounding the compass rose), the back artwork is complete. A notable change is that the "big" on the left side is a bit expanded to match the silhouette on the "and" on the right side.
+
+[FInal Back Artwork](images/finalbackartwork.png)
+
+And with that,
+
+- [x] Project Complete
+
+**Total time spent: 3 hours**
