@@ -113,7 +113,7 @@ After a horrific amoutn of fiddling with x and y offsets and canva (scale was co
 
 After a few iterations (such as having the text be in the corners, rather than surrounding the compass rose), the back artwork is complete. A notable change is that the "big" on the left side is a bit expanded to match the silhouette on the "and" on the right side.
 
-[FInal Back Artwork](images/finalbackartwork.png)
+![FInal Back Artwork](images/finalbackartwork.png)
 
 And with that,
 
