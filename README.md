@@ -3,27 +3,47 @@
 
 This is a NFC business card designed with EasyEDA and Canva.
 
+## How it works
+
+The card is really just a PCB with an nfc antenna, nfc reader, capacitor, and LED. These form a circuit such that the nfc antenna, when tapped, harvests enough power to power the LED. The NFC reader is programmable, and I'll probably set it to output my website for now.
+
 ### PCB
+
+
 
 ![PCBDiagram](images/pcbdiagram.png)
 
+
+
 ### Schematic / Wiring Diagram
+
+
 
 ![Schematic](images/wiring.png)
 
+
+
 ### 3D Model Rendered
 
+
+
 ![FrontFinal](images/finalfrontartwork.png)
+
+
+
+
 ![BackFinal](images/finalbackartwork.png)
+
+
 
 Bill of Materials:
 
 | ID | Name | Designator | Footprint | Quantity | Manufacturer Part | Manufacturer | Supplier | Supplier Part | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 25X48MM_NFC_ANTENNA | 1 | 25X48MM_NFC_ANTENNA | 1 | — | — | — | — | — |
-| 2 | 220nF | C1 | C0603 | 1 | CL10B224KA8NNNC | SAMSUNG(三星) | LCSC | C21120 | 0.02 |
-| 3 | 17-21SUYC/TR8 | LED1 | LED0805-R-RD | 1 | KT-0805黄灯 | KENTO | LCSC | C2296 | 0.012 |
-| 4 | 47Ω | R1 | R0603 | 1 | 0603WAF470JT5E | UNI-ROYAL(厚声) | LCSC | C23182 | 0.009 |
-| 5 | NT3H2111W0FHKH | U1 | XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH | 1 | NT3H2111W0FHKH | NXP(恩智浦) | LCSC | C710403 | 0.649 |
- 
+| 2 | 220nF | C1 | C0603 | 1 | CL10B224KA8NNNC | SAMSUNG(三星) | LCSC | [C21120](https://www.lcsc.com/product-detail/C21120.html) | 0.02 |
+| 3 | 17-21SUYC/TR8 | LED1 | LED0805-R-RD | 1 | KT-0805黄灯 | KENTO | LCSC | [C2296](https://www.lcsc.com/product-detail/C2296.html) | 0.012 |
+| 4 | 47Ω | R1 | R0603 | 1 | 0603WAF470JT5E | UNI-ROYAL(厚声) | LCSC | [C23182](https://www.lcsc.com/product-detail/C23182.html) | 0.009 |
+| 5 | NT3H2111W0FHKH | U1 | XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH | 1 | NT3H2111W0FHKH | NXP(恩智浦) | LCSC | [C710403](https://www.lcsc.com/product-detail/C710403.html) | 0.649 |
 
+The 25×48 mm NFC antenna is etched into the PCB itself, so no link
