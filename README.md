@@ -4,6 +4,10 @@
 
 This is a NFC business card designed with EasyEDA and Canva.
 
+## How it works
+
+The card is really just a PCB with an nfc antenna, nfc reader, capacitor, and LED. These form a circuit such that the nfc antenna, when tapped, harvests enough power to power the LED. The NFC reader is programmable, and I'll probably set it to output my website for now.
+
 ### PCB
 
 
